@@ -1,0 +1,14 @@
+/Users/oracle/Documents/Bank/Bank/bin/Debug/net8.0/Bank
+/Users/oracle/Documents/Bank/Bank/bin/Debug/net8.0/Bank.deps.json
+/Users/oracle/Documents/Bank/Bank/bin/Debug/net8.0/Bank.runtimeconfig.json
+/Users/oracle/Documents/Bank/Bank/bin/Debug/net8.0/Bank.dll
+/Users/oracle/Documents/Bank/Bank/bin/Debug/net8.0/Bank.pdb
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.AssemblyInfoInputs.cache
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.AssemblyInfo.cs
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.csproj.CoreCompileInputs.cache
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.dll
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/refint/Bank.dll
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.pdb
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/Bank.genruntimeconfig.cache
+/Users/oracle/Documents/Bank/Bank/obj/Debug/net8.0/ref/Bank.dll
